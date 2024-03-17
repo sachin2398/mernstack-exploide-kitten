@@ -25,6 +25,7 @@ The objective of the game is to draw cards from a deck without encountering the 
 The frontend is deployed on [Vercel](https://emittr-frontend-kitten.vercel.app/).
 
 ## Screenshots
+![Screenshot 2024-03-18 051117](https://github.com/sachin2398/mernstack-exploide-kitten/assets/113828281/d8130146-ace2-4afc-b722-9b7252aa6b03)
 
 
 
